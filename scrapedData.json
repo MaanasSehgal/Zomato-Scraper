@@ -1,0 +1,838 @@
+[
+  {
+    "foodName": "Chicken Curry with Bone [3 Pieces]",
+    "foodPrice": "₹260"
+  },
+  {
+    "foodName": "Chicken Kasa with Bone [3 Pieces]",
+    "foodPrice": "₹260"
+  },
+  {
+    "foodName": "Boneless Shredded Chicken Bharta",
+    "foodPrice": "₹190"
+  },
+  {
+    "foodName": "Boneless Chilli Chicken Gravy",
+    "foodPrice": "₹190"
+  },
+  {
+    "foodName": "Boneless Butter Garlic Chicken",
+    "foodPrice": "₹190"
+  },
+  {
+    "foodName": "Kadhai Chicken with Bone",
+    "foodPrice": "₹165"
+  },
+  {
+    "foodName": "Chicken Handi Rogan josh with Bone",
+    "foodPrice": "₹175"
+  },
+  {
+    "foodName": "Chicken Egg Tadka [Shredded]",
+    "foodPrice": "₹195"
+  },
+  {
+    "foodName": "Boneless Chicken Reshmi Butter Masala",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Boneless Chicken Tikka Butter Masala",
+    "foodPrice": "₹195"
+  },
+  {
+    "foodName": "Tandoori Aloo [5 Pieces]",
+    "foodPrice": "₹190"
+  },
+  {
+    "foodName": "Veg Seekh Kebab",
+    "foodPrice": "₹235"
+  },
+  {
+    "foodName": "Paneer Tikka",
+    "foodPrice": "₹175"
+  },
+  {
+    "foodName": "Paneer Malai Tikka",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Chicken Tandoori",
+    "foodPrice": "₹310"
+  },
+  {
+    "foodName": "Chicken Tangdi with Bone [2 Pieces]",
+    "foodPrice": "₹305"
+  },
+  {
+    "foodName": "Chicken Afghani Kebab with Bone [4 Pieces]",
+    "foodPrice": "₹325"
+  },
+  {
+    "foodName": "Boneless Chicken Reshmi Kebab",
+    "foodPrice": "₹190"
+  },
+  {
+    "foodName": "Boneless Chicken Tikka Kebab",
+    "foodPrice": "₹205"
+  },
+  {
+    "foodName": "Boneless Chicken Malai Kebab",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Boneless Chicken Hara Dhaniya Kebab",
+    "foodPrice": "₹175"
+  },
+  {
+    "foodName": "Chicken Seekh Kebab",
+    "foodPrice": "₹345"
+  },
+  {
+    "foodName": "Mutton Seekh Kebab",
+    "foodPrice": "₹375"
+  },
+  {
+    "foodName": "Boneless Mutton Banjara Kebab",
+    "foodPrice": "₹225"
+  },
+  {
+    "foodName": "Boneless Mutton Boti Kebab",
+    "foodPrice": "₹225"
+  },
+  {
+    "foodName": "Fish Tikka Kebab",
+    "foodPrice": "₹170"
+  },
+  {
+    "foodName": "Fish Malai Tikka Kebab",
+    "foodPrice": "₹175"
+  },
+  {
+    "foodName": "Fish Kasturi Kebab [4 Pieces]",
+    "foodPrice": "₹335"
+  },
+  {
+    "foodName": "Jeera Aloo",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Aloo Do Pyaza",
+    "foodPrice": "₹125"
+  },
+  {
+    "foodName": "Mixed Vegetable",
+    "foodPrice": "₹135"
+  },
+  {
+    "foodName": "Chana Masala",
+    "foodPrice": "₹125"
+  },
+  {
+    "foodName": "Veg korma",
+    "foodPrice": "₹145"
+  },
+  {
+    "foodName": "Veg Do Pyaza",
+    "foodPrice": "₹145"
+  },
+  {
+    "foodName": "Kashmiri Aloo Dum",
+    "foodPrice": "₹135"
+  },
+  {
+    "foodName": "Veg Kadhai",
+    "foodPrice": "₹155"
+  },
+  {
+    "foodName": "Veg Shahi Korma Do Pyaza",
+    "foodPrice": "₹165"
+  },
+  {
+    "foodName": "Mushroom Green Peas Butter Masala",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Mushroom with Baby Corn Butter Masala",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Malai Kofta",
+    "foodPrice": "₹155"
+  },
+  {
+    "foodName": "Veg Butter Masala",
+    "foodPrice": "₹235"
+  },
+  {
+    "foodName": "Veg Jalfrezi",
+    "foodPrice": "₹245"
+  },
+  {
+    "foodName": "Green Peas Masala",
+    "foodPrice": "₹245"
+  },
+  {
+    "foodName": "Baby Corn Butter Masala",
+    "foodPrice": "₹235"
+  },
+  {
+    "foodName": "Tandoori Aloo Butter Masala",
+    "foodPrice": "₹245"
+  },
+  {
+    "foodName": "Tandoori Veg Seekh Butter Masala",
+    "foodPrice": "₹275"
+  },
+  {
+    "foodName": "Paneer Bhurji",
+    "foodPrice": "₹235"
+  },
+  {
+    "foodName": "Matar Paneer",
+    "foodPrice": "₹160"
+  },
+  {
+    "foodName": "Chana Paneer",
+    "foodPrice": "₹160"
+  },
+  {
+    "foodName": "Mix Veg Paneer",
+    "foodPrice": "₹170"
+  },
+  {
+    "foodName": "Palak Paneer",
+    "foodPrice": "₹180"
+  },
+  {
+    "foodName": "Paneer Do Pyaza",
+    "foodPrice": "₹180"
+  },
+  {
+    "foodName": "Paneer Butter Masala",
+    "foodPrice": "₹180"
+  },
+  {
+    "foodName": "Shahi Paneer",
+    "foodPrice": "₹190"
+  },
+  {
+    "foodName": "Paneer Masala [Red Gravy]",
+    "foodPrice": "₹300"
+  },
+  {
+    "foodName": "Kadhai Paneer",
+    "foodPrice": "₹310"
+  },
+  {
+    "foodName": "Palak Cheese",
+    "foodPrice": "₹235"
+  },
+  {
+    "foodName": "Palak Mushroom",
+    "foodPrice": "₹235"
+  },
+  {
+    "foodName": "Palak Cheese Mushroom",
+    "foodPrice": "₹265"
+  },
+  {
+    "foodName": "Paneer Cheese Masala",
+    "foodPrice": "₹325"
+  },
+  {
+    "foodName": "Paneer Tadka",
+    "foodPrice": "₹260"
+  },
+  {
+    "foodName": "Cheese Tadka",
+    "foodPrice": "₹265"
+  },
+  {
+    "foodName": "Mushroom Tadka",
+    "foodPrice": "₹205"
+  },
+  {
+    "foodName": "Baby Corn Tadka",
+    "foodPrice": "₹205"
+  },
+  {
+    "foodName": "Paneer Mushroom Butter Masala",
+    "foodPrice": "₹320"
+  },
+  {
+    "foodName": "Paneer Tikka Butter Masala",
+    "foodPrice": "₹200"
+  },
+  {
+    "foodName": "Paneer Malai Tikka Butter Masala",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Kali Dal KaTadka",
+    "foodPrice": "₹115"
+  },
+  {
+    "foodName": "Special Dal Butter Tadka",
+    "foodPrice": "₹125"
+  },
+  {
+    "foodName": "Palak Saag",
+    "foodPrice": "₹115"
+  },
+  {
+    "foodName": "Palak Cream",
+    "foodPrice": "₹130"
+  },
+  {
+    "foodName": "Saag Tadka",
+    "foodPrice": "₹125"
+  },
+  {
+    "foodName": "Amritsari Dal Butter Tadka",
+    "foodPrice": "₹135"
+  },
+  {
+    "foodName": "Amritsari Dal Makhani",
+    "foodPrice": "₹155"
+  },
+  {
+    "foodName": "Special Dal Makhani",
+    "foodPrice": "₹145"
+  },
+  {
+    "foodName": "Paneer Dal Makhani",
+    "foodPrice": "₹160"
+  },
+  {
+    "foodName": "Special Yellow Dal Fry",
+    "foodPrice": "₹100"
+  },
+  {
+    "foodName": "Special Butter Kaju Tadka",
+    "foodPrice": "₹145"
+  },
+  {
+    "foodName": "Vegetable Palak",
+    "foodPrice": "₹125"
+  },
+  {
+    "foodName": "Egg Bhurji [2 Pieces]",
+    "foodPrice": "₹95"
+  },
+  {
+    "foodName": "Egg Curry [2 Pieces]",
+    "foodPrice": "₹110"
+  },
+  {
+    "foodName": "Egg Kasa [2 Pieces]",
+    "foodPrice": "₹120"
+  },
+  {
+    "foodName": "Egg Masala [2 Pieces]",
+    "foodPrice": "₹120"
+  },
+  {
+    "foodName": "Egg Korma [2 Pieces]",
+    "foodPrice": "₹135"
+  },
+  {
+    "foodName": "Egg Do Pyaza [2 Pieces]",
+    "foodPrice": "₹135"
+  },
+  {
+    "foodName": "Egg Tadka [2 Pieces]",
+    "foodPrice": "₹225"
+  },
+  {
+    "foodName": "Egg Yellow Dal Fry [2 Pieces]",
+    "foodPrice": "₹225"
+  },
+  {
+    "foodName": "Chicken Curry with Bone [3 Pieces]",
+    "foodPrice": "₹260"
+  },
+  {
+    "foodName": "Chicken Kasa with Bone [3 Pieces]",
+    "foodPrice": "₹260"
+  },
+  {
+    "foodName": "Chicken Korma Bone [3 Piecs]",
+    "foodPrice": "₹290"
+  },
+  {
+    "foodName": "Boneless Chicken Korma [3 Pieces]",
+    "foodPrice": "₹310"
+  },
+  {
+    "foodName": "Chicken Do Pyaza with Bone [3 Pieces]",
+    "foodPrice": "₹290"
+  },
+  {
+    "foodName": "Boneless Chicken Do Pyaza [3 pieces]",
+    "foodPrice": "₹310"
+  },
+  {
+    "foodName": "Chicken Dahi with Bone [3 Pieces]",
+    "foodPrice": "₹290"
+  },
+  {
+    "foodName": "Boneless Chicken Dahi [3 Pieces]",
+    "foodPrice": "₹310"
+  },
+  {
+    "foodName": "Boneless Shredded Chicken Bharta",
+    "foodPrice": "₹190"
+  },
+  {
+    "foodName": "Boneless Chilli Chicken Gravy",
+    "foodPrice": "₹190"
+  },
+  {
+    "foodName": "Boneless Chilli Chicken Manchurian",
+    "foodPrice": "₹180"
+  },
+  {
+    "foodName": "Boneless Schezwan Chicken",
+    "foodPrice": "₹180"
+  },
+  {
+    "foodName": "Boneless Sweet N Sour Chicken",
+    "foodPrice": "₹165"
+  },
+  {
+    "foodName": "Boneless Hot Garlic Chicken",
+    "foodPrice": "₹165"
+  },
+  {
+    "foodName": "Boneless Butter Garlic Chicken",
+    "foodPrice": "₹190"
+  },
+  {
+    "foodName": "Boneless Chicken with Mushroom",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Shredded Boneless Chicken Butter Masala",
+    "foodPrice": "₹195"
+  },
+  {
+    "foodName": "Chicken Kalimirch Bone [3 Pieces]",
+    "foodPrice": "₹340"
+  },
+  {
+    "foodName": "Chicken Kalimirch Boneless [3 Pieces]",
+    "foodPrice": "₹245"
+  },
+  {
+    "foodName": "Kadhai Chicken with Bone",
+    "foodPrice": "₹165"
+  },
+  {
+    "foodName": "Boneless Kadhai Chicken",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Chicken Handi Rogan josh with Bone",
+    "foodPrice": "₹175"
+  },
+  {
+    "foodName": "Boneless Chicken Handi Rogan josh",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Chicken Saag with Bone [3 Pieces]",
+    "foodPrice": "₹335"
+  },
+  {
+    "foodName": "Chicken Saag [Shredded]",
+    "foodPrice": "₹355"
+  },
+  {
+    "foodName": "Chicken Tadka with Bone [3 Pieces]",
+    "foodPrice": "₹335"
+  },
+  {
+    "foodName": "Chicken Tadka [Shredded] [3 Pieces]",
+    "foodPrice": "₹355"
+  },
+  {
+    "foodName": "Chicken Egg Saag with Bone [3 pieces]",
+    "foodPrice": "₹345"
+  },
+  {
+    "foodName": "Boneless Chicken Egg Saag",
+    "foodPrice": "₹195"
+  },
+  {
+    "foodName": "Chicken Egg Tadaka with Bone [3 Pieces]",
+    "foodPrice": "₹345"
+  },
+  {
+    "foodName": "Chicken Egg Tadka [Shredded]",
+    "foodPrice": "₹195"
+  },
+  {
+    "foodName": "Chicken Tandoori Butter Masala",
+    "foodPrice": "₹335"
+  },
+  {
+    "foodName": "Chicken Tangdi Butter Masala [2 Pieces]",
+    "foodPrice": "₹335"
+  },
+  {
+    "foodName": "Chicken Afghani Butter Masala with Bone[4 pieces]",
+    "foodPrice": "₹365"
+  },
+  {
+    "foodName": "Boneless Chicken Reshmi Butter Masala",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Boneless Chicken Tikka Butter Masala",
+    "foodPrice": "₹195"
+  },
+  {
+    "foodName": "Boneless Chicken Malai Butter Masala",
+    "foodPrice": "₹195"
+  },
+  {
+    "foodName": "Boneless Hara Dhaniya Chicken Butter Masala",
+    "foodPrice": "₹195"
+  },
+  {
+    "foodName": "Azad Hind Special Chicken [Shredded]",
+    "foodPrice": "₹405"
+  },
+  {
+    "foodName": "Chicken Seekh Butter Masala",
+    "foodPrice": "₹375"
+  },
+  {
+    "foodName": "Hussaini's Special Chicken [Shredded]",
+    "foodPrice": "₹405"
+  },
+  {
+    "foodName": "Mutton Curry with Bone [3 Pieces]",
+    "foodPrice": "₹365"
+  },
+  {
+    "foodName": "Mutton Kasa with Bone [3 Pieces]",
+    "foodPrice": "₹365"
+  },
+  {
+    "foodName": "Mutton Korma with Bone [3 Pieces]",
+    "foodPrice": "₹385"
+  },
+  {
+    "foodName": "Mutton Do Pyaza with Bone [3 Pieces]",
+    "foodPrice": "₹385"
+  },
+  {
+    "foodName": "Mutton Dahi with Bone [3 Pieces]",
+    "foodPrice": "₹385"
+  },
+  {
+    "foodName": "Mutton Rara Masala with Bone [3 Pieces]",
+    "foodPrice": "₹385"
+  },
+  {
+    "foodName": "Mutton Rara Masala [Boneless]",
+    "foodPrice": "₹405"
+  },
+  {
+    "foodName": "Mutton Kalimirch with Bone [3 Pieces]",
+    "foodPrice": "₹385"
+  },
+  {
+    "foodName": "Boneless Mutton Kalimirchi [3 Pieces]",
+    "foodPrice": "₹405"
+  },
+  {
+    "foodName": "Kadhai Mutton with Bone",
+    "foodPrice": "₹225"
+  },
+  {
+    "foodName": "Boneless Kadhai Mutton",
+    "foodPrice": "₹245"
+  },
+  {
+    "foodName": "Mutton Handi Rogan Josh with Bone",
+    "foodPrice": "₹225"
+  },
+  {
+    "foodName": "Boneless Mutton Handi Rogan Josh",
+    "foodPrice": "₹245"
+  },
+  {
+    "foodName": "Mutton Keema Matar",
+    "foodPrice": "₹225"
+  },
+  {
+    "foodName": "Boneless Mutton Banjara Butter Masala",
+    "foodPrice": "₹245"
+  },
+  {
+    "foodName": "Boneless Mutton Boti Butter Masala",
+    "foodPrice": "₹245"
+  },
+  {
+    "foodName": "Mutton Liver Curry",
+    "foodPrice": "₹140"
+  },
+  {
+    "foodName": "Mutton Liver Kasa",
+    "foodPrice": "₹140"
+  },
+  {
+    "foodName": "Mutton Liver Korma",
+    "foodPrice": "₹155"
+  },
+  {
+    "foodName": "Mutton Liver Do Pyaza",
+    "foodPrice": "₹155"
+  },
+  {
+    "foodName": "Mutton Liver Dahi",
+    "foodPrice": "₹155"
+  },
+  {
+    "foodName": "Mutton Liver Masala",
+    "foodPrice": "₹175"
+  },
+  {
+    "foodName": "Mutton Liver Tadka",
+    "foodPrice": "₹165"
+  },
+  {
+    "foodName": "Mutton Liver Saag",
+    "foodPrice": "₹165"
+  },
+  {
+    "foodName": "Mutton Liver with Keema",
+    "foodPrice": "₹175"
+  },
+  {
+    "foodName": "Mutton Saag with Bone [6 Pieces]",
+    "foodPrice": "₹385"
+  },
+  {
+    "foodName": "Mutton Seekh Butter Masala",
+    "foodPrice": "₹405"
+  },
+  {
+    "foodName": "Mutton Lehsun Kebab with Bone [2 Pieces]",
+    "foodPrice": "₹395"
+  },
+  {
+    "foodName": "Boneless Mutton Saag",
+    "foodPrice": "₹415"
+  },
+  {
+    "foodName": "Mutton Tadka with Bone [3 Pieces]",
+    "foodPrice": "₹385"
+  },
+  {
+    "foodName": "Boneless Mutton Tadaka",
+    "foodPrice": "₹415"
+  },
+  {
+    "foodName": "Mutton Keema Saag",
+    "foodPrice": "₹415"
+  },
+  {
+    "foodName": "Mutton Keema Tadka",
+    "foodPrice": "₹415"
+  },
+  {
+    "foodName": "Fish Tikka Butter Masala",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Fish Kasturi Butter Masala",
+    "foodPrice": "₹195"
+  },
+  {
+    "foodName": "Boneless Fish Chilli Gravy",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Boneless Fish Manchurian Gravy",
+    "foodPrice": "₹185"
+  },
+  {
+    "foodName": "Boneless Hot Garlic Fish Gravy",
+    "foodPrice": "₹175"
+  },
+  {
+    "foodName": "Boneless Butter Garlic Fish Gravy",
+    "foodPrice": "₹175"
+  },
+  {
+    "foodName": "Tandoori Roti",
+    "foodPrice": "₹25"
+  },
+  {
+    "foodName": "Tandoori Butter Roti",
+    "foodPrice": "₹30"
+  },
+  {
+    "foodName": "Rumali Roti",
+    "foodPrice": "₹25"
+  },
+  {
+    "foodName": "Butter Rumali Roti",
+    "foodPrice": "₹30"
+  },
+  {
+    "foodName": "Naan",
+    "foodPrice": "₹55"
+  },
+  {
+    "foodName": "Butter Naan",
+    "foodPrice": "₹65"
+  },
+  {
+    "foodName": "Lachedar Naan",
+    "foodPrice": "₹65"
+  },
+  {
+    "foodName": "Butter Lachedar Naan",
+    "foodPrice": "₹75"
+  },
+  {
+    "foodName": "Masala Naan",
+    "foodPrice": "₹75"
+  },
+  {
+    "foodName": "Butter Masala Naan",
+    "foodPrice": "₹85"
+  },
+  {
+    "foodName": "Cheese Naan",
+    "foodPrice": "₹85"
+  },
+  {
+    "foodName": "Butter Cheese Naan",
+    "foodPrice": "₹95"
+  },
+  {
+    "foodName": "Garlic Naan",
+    "foodPrice": "₹70"
+  },
+  {
+    "foodName": "Butter Garlic Naan",
+    "foodPrice": "₹80"
+  },
+  {
+    "foodName": "Tandoori Lachedar Paratha",
+    "foodPrice": "₹65"
+  },
+  {
+    "foodName": "Tandoori Butter Lachedar Paratha",
+    "foodPrice": "₹75"
+  },
+  {
+    "foodName": "Aloo Paratha",
+    "foodPrice": "₹75"
+  },
+  {
+    "foodName": "Butter Aloo Paratha",
+    "foodPrice": "₹85"
+  },
+  {
+    "foodName": "Onion Paratha",
+    "foodPrice": "₹75"
+  },
+  {
+    "foodName": "Butter Onion Paratha",
+    "foodPrice": "₹85"
+  },
+  {
+    "foodName": "Paneer Paratha",
+    "foodPrice": "₹80"
+  },
+  {
+    "foodName": "Butter Paneer Paratha",
+    "foodPrice": "₹95"
+  },
+  {
+    "foodName": "Basmati Rice",
+    "foodPrice": "₹75"
+  },
+  {
+    "foodName": "Jeera Rice",
+    "foodPrice": "₹105"
+  },
+  {
+    "foodName": "Vegetable Pulao",
+    "foodPrice": "₹175"
+  },
+  {
+    "foodName": "Paneer Pulao",
+    "foodPrice": "₹215"
+  },
+  {
+    "foodName": "Cheese Pulao",
+    "foodPrice": "₹225"
+  },
+  {
+    "foodName": "Jeera Paneer Pulao",
+    "foodPrice": "₹225"
+  },
+  {
+    "foodName": "Veg Paneer Pulao",
+    "foodPrice": "₹225"
+  },
+  {
+    "foodName": "Veg Cheese Pulao",
+    "foodPrice": "₹245"
+  },
+  {
+    "foodName": "Peas Pulao",
+    "foodPrice": "₹125"
+  },
+  {
+    "foodName": "Paneer Cheese Pulao",
+    "foodPrice": "₹135"
+  },
+  {
+    "foodName": "Mushroom with Baby Corn Pulao",
+    "foodPrice": "₹135"
+  },
+  {
+    "foodName": "Paneer Kashmiri Pulao",
+    "foodPrice": "₹155"
+  },
+  {
+    "foodName": "Special Kaju Kismis Pulao",
+    "foodPrice": "₹155"
+  },
+  {
+    "foodName": "Special Egg Masala Omelette [2 Pieces]",
+    "foodPrice": "₹65"
+  },
+  {
+    "foodName": "Masala Kulcha",
+    "foodPrice": "₹70"
+  },
+  {
+    "foodName": "Butter Masala Kulcha",
+    "foodPrice": "₹80"
+  },
+  {
+    "foodName": "Papad",
+    "foodPrice": "₹25"
+  },
+  {
+    "foodName": "Onion Salad",
+    "foodPrice": "₹60"
+  },
+  {
+    "foodName": "Green Salad",
+    "foodPrice": "₹75"
+  },
+  {
+    "foodName": "Mixed Raita",
+    "foodPrice": "₹135"
+  }
+]
